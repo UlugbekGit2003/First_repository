@@ -1,0 +1,27 @@
+#include<iostream>
+
+#include<math.h>
+
+using namespace std;
+
+int main ( ){
+
+	unsigned short int a,b,c;	int x,y,z;
+
+	cin>>a;
+
+	cin>>b;
+
+	cin>>c;
+
+	x=(a+1)/2;
+
+	y=(b+1)/2;
+
+	z=(c+1)/2;
+
+	
+
+			cout<<x+y+z;
+
+}
